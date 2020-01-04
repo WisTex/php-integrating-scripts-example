@@ -67,6 +67,14 @@ In addition, this project strives to provide example code that can be used to sp
 * You should avoid assuming knowledge, so assume the user is just going to copy and paste some code and then modify it.
 * If complex concepts and references are needed, provide links to relevant resources.
 
+## Snippets
+
+One component of this project is to provide snippets of code that you can use for integration with other scripts.
+
+For example, if you want to use the login system that a particular forum script uses for your main website, you often can drop in a specific include that checks to see if the user is logged in and provides variables with information aabout the user, such as userID, username, etc. By referencing this include file in your own PHP pages, you basically are integrating the forum's login system with the rest of your website.
+
+These snippets can be used with the framework, or theur can be used in custom PHP files that you create.
+
 ## Contribution & Usage
 
 We are providing these concepts and example code with the hope that you find it useful. You are welcome to contribute to the code, and use it in your own projects, commercial and non-commercial.
