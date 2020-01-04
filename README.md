@@ -81,10 +81,10 @@ We do ask that you keep a link to this repository in your source code, both for 
 
 The acronym accidentally spells out "pis&eacute;" which happens to be approrpiate.
 
-*Pis&eacute; - NOUN
+Pis&eacute; - NOUN
 1. Building material of stiff clay or earth, forced into forms that are removed as it hardens.
 2. Rammed earth.
 
 ORIGIN late 18th century: French, literally ‘pounded’
 
-USAGE: His house was made of pis&eacute;.*
+USAGE: His house was made of pis&eacute;.
