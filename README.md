@@ -87,7 +87,7 @@ We do ask that you keep a link to this repository in your source code, both for 
 
 #### Amusing Accidental Definition
 
-The acronym accidentally spells out "pis&eacute;" which happens to be approrpiate.
+The acronym accidentally spells out "pis&eacute;" which happens to be appropriate.
 
 Pis&eacute; - NOUN
 1. Building material of stiff clay or earth, forced into forms that are removed as it hardens.
