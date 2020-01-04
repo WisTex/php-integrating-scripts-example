@@ -3,7 +3,7 @@
 
 #### Version 0.1 (Concepts Only)
 
-Concepts and example code for creating scripts that integrate with other scripts.
+Concepts <s>and example code</s> for creating scripts that integrate with other scripts.
 
 *Note: Currently this is conceptual only. Example code will be added.*
 
